@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @Yashdeep9073
 
 - 👀 I’m interested in **software development, web technologies, and backend systems**.
-- 🌱 I’m currently learning **[insert what you're learning here, e.g., advanced algorithms, cloud computing, etc.]**.
+- 🌱 I’m currently learning **advanced algorithms, cloud computing**.
 - 💻 My tech stack includes:  
   - **JavaScript**: Building interactive web applications and APIs.  
   - **PHP**: Developing robust server-side applications.  
@@ -14,7 +14,6 @@
   - Email: **ydeep9073@gmail.com**  
   - LinkedIn: **https://www.linkedin.com/in/yash-deep-22aa41238/**  
   - Instagram: **http://instagram.com/deep.79sk/**  
-  *(Feel free to add other contact methods like Discord, etc.)*
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I once debugged a 1000-line codebase in under an hour—patience is key!**
 
@@ -32,7 +31,6 @@
 - **Contributed to an open-source project written in Elixir, improving its performance by 20%**.  
 - **Developed a mobile app in Kotlin that helps users track daily habits**.  
 
-*(Feel free to update this section with your actual achievements!)*
 
 ---
 
