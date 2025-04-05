@@ -11,17 +11,17 @@
   - **Kotlin**: Developing modern Android apps and backend services.  
 - 💞️ I’m looking to collaborate on **open-source projects, web or mobile app development, or anything tech-related**.
 - 📫 How to reach me:  
-  - Email: **[your email here]**  
-  - LinkedIn: **[your LinkedIn profile link here]**  
-  - Twitter: **[your Twitter handle here]**  
+  - Email: **ydeep9073@gmail.com**  
+  - LinkedIn: **https://www.linkedin.com/in/yash-deep-22aa41238/**  
+  - Instagram: **http://instagram.com/deep.79sk/**  
   *(Feel free to add other contact methods like Discord, etc.)*
-- 😄 Pronouns: **[e.g., He/Him, She/Her, They/Them, etc.]**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I once debugged a 1000-line codebase in under an hour—patience is key!**
 
 ---
 
 ### 🌟 A Little More About Me:
-- I enjoy **[mention hobbies or interests, e.g., coding challenges, reading tech blogs, gaming, etc.]**.
+- I enjoy **coding challenges, reading tech blogs, gaming, etc.**.
 - My favorite tools/frameworks include: **React, Laravel, Phoenix Framework, Spring Boot, and Android Studio**.
 - I aspire to **build scalable systems that solve real-world problems and positively impact people's lives**.
 
@@ -43,9 +43,6 @@ If you share similar interests or want to collaborate on something cool, feel fr
 
 ### 🔗 Links:
 - GitHub Profile: [@Yashdeep9073](https://github.com/Yashdeep9073)
-- Portfolio Website: **[insert your portfolio link here, if applicable]**
-- Blog/Tech Articles: **[insert link to your blog or Medium page, if applicable]**
-
 ---
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
