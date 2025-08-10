@@ -14,6 +14,7 @@
   - Email: **ydeep9073@gmail.com**  
   - LinkedIn: **https://www.linkedin.com/in/yash-deep-22aa41238/**  
   - Instagram: **http://instagram.com/deep.79sk/**  
+  - Website: **https://yashdeep.site/**  
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I once debugged a 1000-line codebase in under an hour—patience is key!**
 
